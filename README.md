@@ -8,7 +8,7 @@
 
 </div>
 
-BasedAI is a decentralized network built to enable end-to-end private computations on distributed GPU infrastructure. The flagship 'Brain' of BasedAI is allows for Fully Homomorphic Encryption (FHE) of Large Language Models (LLMs), effectively creating Zero-Knowledge LLMs (ZK-LLMs).
+BasedAI is a decentralized network built to enable end-to-end private computations on distributed GPU infrastructure. The flagship 'Brain' of BasedAI allows for Fully Homomorphic Encryption (FHE) of Large Language Models (LLMs), effectively creating Zero-Knowledge LLMs (ZK-LLMs).
 
 For detailed understanding of the BasedAI network and its groundbreaking approach with ZK-LLMs, please refer to our [research paper](https://arxiv.org/abs/2403.01008).
 
@@ -37,7 +37,7 @@ basedcli wallet new_personalkey
 # check the balances of your wallet 
 basedcli wallet balance
 ```
-3. Join as a Brain miner or validators with a compute key: 
+3. Join as a Brain miner or validator with a compute key: 
 ```bash
 # check the balances of your wallet 
 basedcli wallet new_personalkey
@@ -73,7 +73,7 @@ basedcli help
 
 ## The BasedAI PIP Package
 
-The BasedAI package includes essential tools included `basedai` (the Python operations package for developers) and `basedcli` (for setting up mining, validation activities, and querying ZK-LLMs). Learn more in the [official documentation](https://docs.getbased.ai). 
+The BasedAI package includes essential tools. Included are: `basedai` (the Python operations package for developers) and `basedcli` (for setting up mining, validation activities, and querying ZK-LLMs). Learn more in the [official documentation](https://docs.getbased.ai). 
 
 ## Governance and Voting
 
